@@ -1,3 +1,6 @@
+//Ninad Phatak
+//24070123065
+//ENTC A3
 #include <iostream>
 using namespace std;
 
