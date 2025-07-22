@@ -17,4 +17,12 @@ int main() {
 
     return 0;
 }
+/*Enter two numbers: 3
+4
+Output : Addition: 7
+Subtraction: -1
+Multiplication: 12
+Division: 0
+*/
+
 
