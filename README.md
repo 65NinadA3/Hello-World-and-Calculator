@@ -2,8 +2,9 @@ Name: Ninad Phatak
 PRN: 24070123065  
 Batch: ENTC A3  
 
-# Experiment 1: Hello World and Arithmetic Operations
+# C++ Programs: Basic Input/Output and Arithmetic Operations
 
+## Overview
 This repository contains two basic C++ programs designed for beginners. The first program introduces console output using `cout`, while the second demonstrates user input and basic arithmetic operations using `cin`. These foundational exercises help new learners become familiar with C++ syntax, structure, and standard input/output operations.
 
 ## Program 1: Hello World and Introduction
@@ -34,3 +35,4 @@ This program accepts two floating-point numbers as input from the user and perfo
 ## Conclusion
 
 These two C++ programs provide a basic introduction to input/output operations and arithmetic processing. The first program emphasizes formatting and console output, while the second builds on that foundation by incorporating user input, calculations, and conditional logic. Together, they form a solid starting point for understanding C++ syntax and program flow.
+
